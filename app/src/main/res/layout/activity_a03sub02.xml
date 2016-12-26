@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_a03sub02"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    tools:context="com.kangle.library.subsubActivity.A03sub02Activity">
+
+
+
+    <com.kangle.circleprogress.ArcProgress
+        android:layout_centerInParent="true"
+        android:id="@+id/arc_store"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        custom:arc_bottom_text="存储空间"
+        custom:arc_bottom_text_size="18dip"
+        custom:arc_progress="10"
+        custom:arc_stroke_width="8dip"
+        custom:arc_text_color="#ff0000"
+        custom:arc_text_size="32sp" />
+
+</RelativeLayout>

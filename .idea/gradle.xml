@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/coverflow" />
+            <option value="$PROJECT_DIR$/customizeview" />
+            <option value="$PROJECT_DIR$/imageviewModule" />
+            <option value="$PROJECT_DIR$/logutil" />
+            <option value="$PROJECT_DIR$/mydialog" />
+            <option value="$PROJECT_DIR$/pickerview" />
+            <option value="$PROJECT_DIR$/progressmodule" />
+            <option value="$PROJECT_DIR$/pullloadview" />
+            <option value="$PROJECT_DIR$/tablayouttest" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

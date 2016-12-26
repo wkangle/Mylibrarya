@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:counter="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    >
+    <com.kangle.textcounter.CounterView
+        android:background="#2200ff00"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/counterView"
+        android:textSize="48sp"
+        android:text="250"
+        android:textColor="#ff0000"
+        counter:autoStart="false"
+    />
+
+
+</LinearLayout>

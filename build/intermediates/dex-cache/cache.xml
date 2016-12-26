@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Mylibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_15f5d4517e18bbc6da94a0bfcc367f75b3f88aca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mylibrary\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Mylibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_1f5953aee53161a444d0b94e038c93e8e3ed259e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mylibrary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Mylibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_d9a8c3478b3697d8bdcf5ace1d5b80b161ae0528\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mylibrary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bc52540ced6c971f197857fe29580a1253b6d04">
+        <dex dex="D:\Mylibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f2b75c0be616f8d8895037a439c880c38055bb23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mylibrary\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Mylibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_c369026c66cbcff191f893587fcfdb933a78f26a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mylibrary\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Mylibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_c37491f044c2d3129df216fd3172aafbb37d81ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mylibrary\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Mylibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_dc1a64a43e13e227946d33b65708ac0a2bddd814\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mylibrary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="342695fcf644361ae6d344cbcf6b9f58a8773b9b">
+        <dex dex="D:\Mylibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bbcf6eaa7c9e7cb15792d3d3af6207118810234c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mylibrary\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Mylibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_e1a4122587b66ca72d901b31a9d33efd1422d3f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mylibrary\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Mylibrary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_139aeffadeaeec2b2851ae85180715a6e10d4fd2\classes.dex" />
+    </item>
+
+</items>
